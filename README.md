@@ -2,7 +2,7 @@
 
 - 💻 Programação e TI.
 - 🔭 Atualmente não estou trabalhando.
-- 📚 Atualmente estudando LUA, HTML e CSS, mais pra frente JS...
+- 📚 Atualmente estudando LUA, HTML e CSS...
 
  <div>
   <a href="https://github.com/luizsrkdev">
